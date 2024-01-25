@@ -1,3 +1,6 @@
+
+DOWNLOAD THE OnlineGradingSystem ZIP FILE TO ACCESS THE SYSTEM.
+
 # OnlineGradingSystem
 ROLES
 -ADMIN-
